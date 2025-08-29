@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Práctica 1: La computación como herramienta de trabajo </h1>
 
-##**Equipo:** Ingenieritos FI
+**Equipo:** Ingenieritos FI
 
 **Materia:** Fundamentos de Programación
 
