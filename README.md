@@ -21,7 +21,3 @@ Cada integrante del equipo subió:
 - `/articulos/` → textos científicos (1 por integrante).
 - `/resumenes/` → resúmenes y justificaciones.
 - `/imagenes/` → imagen representativa de cada integrante.
-
-## Evidencia
-
-En este README solo se muestra la organización general; el detalle de cada aporte está en las carpetas.
