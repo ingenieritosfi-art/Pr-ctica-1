@@ -1,10 +1,10 @@
 <h1 align="center"> 🚀 Práctica 1: La computación como herramienta de trabajo </h1>
 
-**Equipo:** Ingenieritos FI
+🛰️**Equipo:** Ingenieritos FI
 
-**Materia:** Fundamentos de Programación
+👩🏻‍💻**Materia:** Fundamentos de Programación
 
-**Profesor:** Alejandro Romero 
+👾**Profesor:** Alejandro Romero 
 
 Descripción
 
