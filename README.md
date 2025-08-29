@@ -1,10 +1,12 @@
 <h1 align="center"> 🚀 Práctica 1: La computación como herramienta de trabajo </h1>
 
-🛰️**Equipo:** Ingenieritos FI
-
 👩🏻‍💻**Materia:** Fundamentos de Programación
 
 👾**Profesor:** Alejandro Romero 
+
+🛰️**Equipo:** Ingenieritos FI
+
+🛫**Integrantes:** Enriquez Vera Ariadna Yenevid. Valencia Hernández Fernando
 
 Descripción
 
@@ -18,6 +20,5 @@ Cada integrante del equipo subió:
 
 ## Estructura del repositorio
 
-- `/articulos/` → textos científicos (1 por integrante).
-- `/resumenes/` → resúmenes y justificaciones.
+- `/ artículos y resumenes/` → resúmenes y justificaciones.
 - `/imagenes/` → imagen representativa de cada integrante.
