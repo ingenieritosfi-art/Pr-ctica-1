@@ -20,5 +20,5 @@ Cada integrante del equipo subió:
 
 ## Estructura del repositorio
 
-- `/ artículos y resumenes/` → resúmenes y justificaciones.
-- `/imagenes/` → imagen representativa de cada integrante.
+- `/ artículos y resumenes/`:resúmenes y justificaciones.
+- `/imagenes/`:imagen representativa de cada integrante.
